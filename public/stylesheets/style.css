@@ -3,10 +3,6 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-h1, h2 {
-  color: blue;
-}
-
-.no-bullets {
-  list-style: none;
+a {
+  color: #00B7FF;
 }

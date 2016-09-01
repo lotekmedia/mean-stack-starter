@@ -6,7 +6,7 @@
     "Dr. Mike Hopper <drmikeh@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/ATL-WDI-Exercises/mean-stack-starter-app",
   "ignore": [
     "**/.*",
     "node_modules",
